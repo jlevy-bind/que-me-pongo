@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>utn.frba.disenio</groupId>
 	<artifactId>que-me-pongo</artifactId>
-	<version>1.0.0</version>
+	<version>dev-julian-levy-1.0.0</version>
 	<name>QueMePongo</name>
 	<description>TP iterativo de Diseño de Sistemas</description>
 	<properties>
